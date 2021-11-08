@@ -18,6 +18,6 @@ export default {
   components: {
     Task,
   },
-  emits: ['delete-task', 'toggle-reminder'], // 안해주면  warning
+  emits: ['delete-task', 'toggle-reminder'], // 안해주면  warningaaa
 };
 </script>
